@@ -1,5 +1,5 @@
 {
-	"name": "partbot",
+	"name": "arsras",
 	"version": "3.0.0",
 	"description": "A chatbot for Pokémon Showdown",
 	"main": "src/index.js",
@@ -19,7 +19,7 @@
 		"webpack-server": "webpack -c src/web/webpack/webpack.config.ts --watch"
 	},
 	"keywords": [],
-	"author": "PartMan7",
+	"author": "Arsh-Rastogi",
 	"license": "ISC",
 	"dependencies": {
 		"@swc/core": "^1.7.40",
