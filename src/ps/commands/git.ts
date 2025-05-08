@@ -5,6 +5,6 @@ export const command: PSCommand = {
 	help: 'Links the GitHub repository',
 	syntax: 'CMD',
 	async run({ broadcast }) {
-		broadcast('https://github.com/PartMan7/PartBotter');
+		broadcast('https://github.com/Arsh-Rastogi/Arsras');
 	},
 };
